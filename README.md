@@ -12,4 +12,4 @@ Une fois les hyperparamètres optimaux trouvés, l'algorithme est testé sur plu
 
 ## 🚀 Exécution sur Google Colab  
 Vous pouvez exécuter ce projet directement sur Google Colab en suivant ce lien :  
-[![Ouvrir sur Colab](https://colab.research.google.com/assets/colab-badge.svg)](TON_LIEN_COLAB_ICI)
+[![Ouvrir sur Colab](https://colab.research.google.com/assets/colab-badge.svg)]([TON_LIEN_COLAB_ICI](https://colab.research.google.com/drive/1b9sDAfJgMbeRnrYFH1OGhED9Fg5LICbF?usp=sharing))
