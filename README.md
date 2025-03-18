@@ -7,10 +7,7 @@ This project implements a **Genetic Algorithm (GA)** to solve the **Graph Colori
 - The program begins by reading `.txt` files containing graph data. These files specify the graph's structure, including vertices and edges.
 
 ## 🔍 Hyperparameter Search (Grid Search)
-- A **grid search** is performed to find the best hyperparameters for the genetic algorithm. These hyperparameters include:
-  - Population size
-  - Mutation rate
-  - Crossover points
+- A **grid search** is performed to find the best hyperparameters for the genetic algorithm. 
 
 ## 🧪 Tests on Files `test1.txt`, `test2.txt`
 - Once the optimal hyperparameters are found, the algorithm is tested on multiple input files to evaluate its performance.
