@@ -1,4 +1,4 @@
-# <span style="color:pink">Graph Coloring using Genetic Algorithm in Python</span>
+# Graph Coloring using Genetic Algorithm in Python
 
 ## Overview
 This project implements a **Genetic Algorithm (GA)** to solve the **Graph Coloring Problem**, where the goal is to assign colors to the vertices of a graph such that no two adjacent vertices share the same color. The aim is to minimize the number of colors used while avoiding conflicts (i.e., adjacent vertices having the same color).
