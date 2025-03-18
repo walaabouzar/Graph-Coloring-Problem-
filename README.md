@@ -7,7 +7,7 @@ Le programme commence par la lecture des fichiers `.txt` contenant les graphes.
 ## 🔍 Recherche des Hyperparamètres (Grid Search)
 Une recherche exhaustive est effectuée pour trouver les meilleurs hyperparamètres.
 
-## 🧪 Tests sur les fichiers `test1.txt`, `test2.txt`, et `test3.txt`
+## 🧪 Tests sur les fichiers `test1.txt`, `test2.txt`.
 Une fois les hyperparamètres optimaux trouvés, l'algorithme est testé sur plusieurs fichiers de test.
 
 ## 🚀 Exécution sur Google Colab  
