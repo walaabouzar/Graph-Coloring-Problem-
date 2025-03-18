@@ -43,8 +43,8 @@ This project implements a **Genetic Algorithm (GA)** to solve the **Graph Colori
 - The results of each generation, including the number of colors used, fitness score, mutation rate, and population diversity, are saved to a **CSV file** for further analysis.
 
 
-## 🚀 Exécution sur Google Colab  
-Vous pouvez exécuter ce projet directement sur Google Colab en suivant ce lien :  
+## 🚀 Execution on Google Colab  
+You can run this project directly on Google Colab by following this link: 
 
 [![Ouvrir sur Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1b9sDAfJgMbeRnrYFH1OGhED9Fg5LICbF?usp=sharing)
 
