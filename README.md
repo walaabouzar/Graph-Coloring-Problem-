@@ -1,4 +1,4 @@
-#  Graph Coloring using Genetic Algorithm in Python
+# <span style="color:pink">Graph Coloring using Genetic Algorithm in Python</span>
 
 ## Overview
 This project implements a **Genetic Algorithm (GA)** to solve the **Graph Coloring Problem**, where the goal is to assign colors to the vertices of a graph such that no two adjacent vertices share the same color. The aim is to minimize the number of colors used while avoiding conflicts (i.e., adjacent vertices having the same color).
@@ -7,7 +7,7 @@ This project implements a **Genetic Algorithm (GA)** to solve the **Graph Colori
 - The program begins by reading `.txt` files containing graph data. These files specify the graph's structure, including vertices and edges.
 
 ## 🔍 Hyperparameter Search (Grid Search)
-- A **grid search** is performed to find the best hyperparameters for the genetic algorithm. 
+- A **grid search** is performed to find the best hyperparameters for the genetic algorithm.
 
 ## 🧪 Tests on Files `test1.txt`, `test2.txt`
 - Once the optimal hyperparameters are found, the algorithm is tested on multiple input files to evaluate its performance.
@@ -48,8 +48,6 @@ Key metrics visualized include:
 - **Population Diversity**: The variety within the population, indicating how different the solutions are.
 
 These visualizations help to track the algorithm’s progress, identify trends, and make adjustments to hyperparameters when needed.
-
-
 
 ## 🚀 Execution on Google Colab  
 You can run this project directly on Google Colab by following this link: 
