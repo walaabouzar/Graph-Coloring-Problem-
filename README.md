@@ -39,8 +39,16 @@ This project implements a **Genetic Algorithm (GA)** to solve the **Graph Colori
      - When diversity is low, the mutation rate increases to encourage exploration.
      - When diversity is high, the mutation rate decreases to encourage exploitation.
 
-## 💾 Results Logging
-- The results of each generation, including the number of colors used, fitness score, mutation rate, and population diversity, are saved to a **CSV file** for further analysis.
+## 💾 Results Logging and Visualization  
+The results of each generation, including the number of colors used, fitness score, mutation rate, and population diversity, are saved to a **CSV file** for further analysis. The data is then visualized using **Pandas** and **Matplotlib** to better understand the performance and evolution of the genetic algorithm over time.  
+Key metrics visualized include:
+- **Fitness Score**: How well each individual in the population performs.
+- **Mutation Rate**: The frequency of mutations occurring in the population.
+- **Number of Colors Used**: The number of colors assigned to the graph vertices.
+- **Population Diversity**: The variety within the population, indicating how different the solutions are.
+
+These visualizations help to track the algorithm’s progress, identify trends, and make adjustments to hyperparameters when needed.
+
 
 
 ## 🚀 Execution on Google Colab  
